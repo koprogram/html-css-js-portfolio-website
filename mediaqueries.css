@@ -120,4 +120,29 @@
     #contact {
         height: 40vh;
     }
+    
+
+    .text-container {
+        text-align: justify;
+        font-size: 20px;
+        
+    }
+    .details-container h3 {
+        font-size: 30px;
+    }
+    .details-container img {
+        height: 50px;
+    }
+
+    .section__pic-container {
+        height: 450px;
+        padding-right: 50px;
+        padding-top: 50px;
+    }
+
+    .about-details-container {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+       
 }

@@ -353,6 +353,8 @@ article.icon {
 
 #projects {
     position: relative;
+    overflow: auto;
+    margin-bottom: 50px;
 }
 
 .color-container {
@@ -382,7 +384,10 @@ article.icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    /* height: 70vh; */
+    padding-top: 50px;
+    z-index: 1;
+    position: relative;
 }
 
 .contact-info-upper-container {
